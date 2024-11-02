@@ -1,7 +1,7 @@
 Hi, I’m Sharma 👋
-👀 Interests: Passionate about software development, especially in Java and Front-End Development using frameworks like React.js and Bootstrap. I enjoy problem-solving, optimizing code, and building scalable applications.
-🌱 Currently Learning: Advancing my skills in Full-Stack Development with a focus on back-end technologies, and strengthening my problem-solving abilities with platforms like LeetCode and JavaPoint.
-💼 Looking to Collaborate On: Open-source projects, innovative web applications, and any project that leverages Java or React.js.
-📫 How to Reach Me: Feel free to reach out on LinkedIn or via email at karnan.sharma@example.com.
-😄 Pronouns: He/Him
-⚡ Fun Fact: I placed first in district-level athletics for three consecutive years in events like the 100m and 200m sprints!
+🎓 Background: Recent graduate in software engineering with hands-on experience in Java and React.js through internships and projects.
+👀 Interests: Passionate about developing efficient software solutions, with a focus on Java development and Front-End Engineering. Enjoys working on user-friendly interfaces and optimizing back-end performance.
+🌱 Currently Learning: Advancing my skills in Full-Stack Development, specifically exploring back-end technologies and databases to become more versatile.
+💼 Looking to Collaborate On: Entry-level projects or open-source contributions that involve Java, React.js, or general web development.
+📫 How to Reach Me: Connect with me on LinkedIn or email me at karnan.sharma@example.com.
+⚡ Fun Fact: I excelled in district-level athletics for three years in sprint events, which taught me resilience and focus—skills I bring to my coding journey!
