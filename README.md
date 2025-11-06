@@ -1,7 +1,9 @@
-- Hi, I’m Sharma 👋
-- 🎓 Background: Recent graduate in software engineering with hands-on experience in Java and React.js through internships and projects.
-- 👀 Interests: Passionate about developing efficient software solutions, with a focus on Java development and Front-End Engineering. Enjoys working on user-friendly interfaces and optimizing back-end performance.
-- 🌱 Currently Learning: Advancing my skills in Full-Stack Development, specifically exploring back-end technologies and databases to become more versatile.
-- 💼 Looking to Collaborate On: Entry-level projects or open-source contributions that involve Java, React.js, or general web development.
-- 📫 How to Reach Me: Connect with me on LinkedIn or email me at sharmakarnan16@gmail.com.
-- ⚡ Fun Fact: I excelled in district-level athletics for three years in sprint events, which taught me resilience and focus—skills I bring to my coding journey!
+Hi, I’m Sharma 👋
+🎓 Background: Recent software engineering graduate currently working at Aadasteck Pvt. Ltd. as a Java Full Stack Developer, contributing to the Jessica Brooks – HRV Light Structures project. My work involves developing scalable web applications using Spring Boot, React.js, and MySQL.
+👀 Interests: Passionate about building efficient, user-focused software solutions. I enjoy working on both frontend development to enhance user experience and backend systems to improve performance and reliability.
+🌱 Currently Learning: Advancing my skills in Full Stack Development, exploring deeper into API design, database management, and microservice architecture.
+💼 Looking to Collaborate On: Exciting projects or open-source initiatives involving Java, React.js, or web application development.
+📫 How to Reach Me: Connect with me on LinkedIn
+ or email me at sharmakarnan16@gmail.com
+.
+⚡ Fun Fact: A former district-level sprinter — the same discipline and focus I bring to solving complex coding challenges today!
